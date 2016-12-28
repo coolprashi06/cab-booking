@@ -1,0 +1,5 @@
+Used Haversine algorithm to find the distance between two given locations.
+
+http://www.movable-type.co.uk/scripts/latlong.html
+http://www.igismap.com/haversine-formula-calculate-geographic-distance-earth/
+https://en.wikipedia.org/wiki/Haversine_formula
